@@ -1,0 +1,10 @@
+[
+  {
+    "action": "clone",
+    "src": "jigargosar/prettier-config"
+  },
+  {
+    "action":"clone",
+    "src": "jigargosar/gitignore-config"
+  }
+]
